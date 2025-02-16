@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Buildozer
+.buildozer/
+bin/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment
+.env
+venv/
+ENV/
+
+# Misc
+*.log
+*.pot
+*.pyc
+.DS_Store
